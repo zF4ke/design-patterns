@@ -15,6 +15,7 @@ In addition, patterns allow developers to communicate using well-known, well und
 >
 > - [Factory Pattern](Creational/Factory.ts)
 > - [Singleton Pattern](Creational/Singleton.ts)
+> - [Strategy Pattern](Behavioral/Strategy.ts)
 
 # Criticism
 
